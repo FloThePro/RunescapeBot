@@ -1,0 +1,16 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="Aufg401.Aufg_05_07"><rhs name\="Aufg401.Aufg_05_07"/></lhs><lhs name\="Aufg401.Aufg_06_02"><rhs name\="Aufg401.Aufg_06_02"/></lhs><lhs name\="Aufg401.Aufg_07_01"><rhs name\="Aufg401.Aufg_07_01"/></lhs><lhs name\="lernen.Kinosaal"><rhs name\="lernen.Kinosaal"/></lhs><lhs name\="Aufg401.Aufg_07_04"><rhs name\="Aufg401.Aufg_07_04"/></lhs><lhs name\="Aufgaben8.Fahrzeug"><rhs name\="Aufgaben8.Pkw"/><rhs name\="Aufgaben8.Motorrad"/></lhs><lhs name\="Aufgaben8.Pkw"><rhs name\="Aufgaben8.Pkw"/></lhs><lhs name\="Aufgaben8.Motorrad"><rhs name\="Aufgaben8.Motorrad"/></lhs><lhs name\="Aufgaben8.ZooTier"><rhs name\="Aufgaben8.Zebra"/></lhs><lhs name\="Aufgaben8.Zebra"><rhs name\="Aufgaben8.Zebra"/></lhs><lhs name\="Aufgaben11.Musikinstrument"><rhs name\="Aufgaben11.Trommel"/><rhs name\="Aufgaben11.Trompete"/></lhs><lhs name\="Aufgaben11.Trommel"><rhs name\="Aufgaben11.Trommel"/></lhs><lhs name\="Aufgaben11.Trompete"><rhs name\="Aufgaben11.Trompete"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=17
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

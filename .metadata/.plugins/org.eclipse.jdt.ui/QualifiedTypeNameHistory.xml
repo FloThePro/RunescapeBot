@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="Aufg401.Aufg_05_07"/>
+    <fullyQualifiedTypeName name="Aufg401.Aufg_06_02"/>
+    <fullyQualifiedTypeName name="com.sun.jndi.ldap.BerEncoder"/>
+    <fullyQualifiedTypeName name="Aufg401.Taschenrechner"/>
+    <fullyQualifiedTypeName name="Aufg401.Aufg_07_01"/>
+    <fullyQualifiedTypeName name="lernen.TestKinosaal"/>
+    <fullyQualifiedTypeName name="lernen.Kinosaal"/>
+    <fullyQualifiedTypeName name="Aufg401.Aufg_07_04"/>
+    <fullyQualifiedTypeName name="Aufg401.Aufg_07_05"/>
+    <fullyQualifiedTypeName name="Aufg401.Aufg_07_06"/>
+    <fullyQualifiedTypeName name="Aufgaben8.Fahrzeug"/>
+    <fullyQualifiedTypeName name="Aufg401.Tools"/>
+    <fullyQualifiedTypeName name="Aufgaben8.Pkw"/>
+    <fullyQualifiedTypeName name="Aufgaben8.Motorrad"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="Aufgaben8.Rechteck"/>
+    <fullyQualifiedTypeName name="Aufgaben8.GeometrischeFigur"/>
+    <fullyQualifiedTypeName name="Aufgaben8.Zebra"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="Aufgaben10.Bankkonto"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.security.transforms.TransformationException"/>
+    <fullyQualifiedTypeName name="Aufgaben10.TransaktionsExeption"/>
+    <fullyQualifiedTypeName name="Aufgaben11.Musikinstrument"/>
+    <fullyQualifiedTypeName name="Aufgaben11.Trommel"/>
+    <fullyQualifiedTypeName name="Aufgaben11.Trompete"/>
+    <fullyQualifiedTypeName name="Aufgaben11.Laserdrucker"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

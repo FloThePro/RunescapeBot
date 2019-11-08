@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Aufgaben10.TransaktionsExeption&apos; to &apos;TransaktionsException&apos;&#x0D;&#x0A;- Original project: &apos;lernen&apos;&#x0D;&#x0A;- Original element: &apos;Aufgaben10.TransaktionsExeption&apos;&#x0D;&#x0A;- Renamed element: &apos;Aufgaben10.TransaktionsException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TransaktionsExeption&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Aufgaben10{TransaktionsExeption.java[TransaktionsExeption" matchStrategy="1" name="TransaktionsException" qualified="false" references="true" similarDeclarations="false" stamp="1570457390475" textual="false" version="1.0"/>
+</session>
